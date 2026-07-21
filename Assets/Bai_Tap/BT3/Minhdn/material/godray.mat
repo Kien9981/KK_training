@@ -77,14 +77,14 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Power: 0.86
+    - _Power: 0.8
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.8628383, g: 0.7029308, b: 0.27852902, a: 1}
+    - _Color: {r: 0.87169814, g: 0.6893115, b: 0.20887856, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Fade: {r: 0.96, g: 0.07, b: 0.25, a: 0.41}
   m_BuildTextureStacks: []
