@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: gogray
+  m_Name: gogray_window
   m_Shader: {fileID: 4800000, guid: 1ba886346520e8b48be382043c1e1351, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -82,7 +82,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8396226, g: 0.19406372, b: 0.31326154, a: 1}
+    - _Color: {r: 0.4490565, g: 0.41297284, b: 0.2872267, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Fade: {r: 0.04, g: 0.29, b: -0.4, a: 1}
+    - _Fade: {r: 0.09, g: 1.68, b: 0.06, a: 1.01}
   m_BuildTextureStacks: []
