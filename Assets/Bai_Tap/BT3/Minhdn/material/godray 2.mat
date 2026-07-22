@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: godray
+  m_Name: godray 2
   m_Shader: {fileID: 4800000, guid: fdd70ed732a7bbb4b858c592195623dc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -18,7 +18,7 @@ Material:
   - _FADEY_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -77,14 +77,14 @@ Material:
     - _Mode: 3
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Power: 0.53
+    - _Power: 3.79
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.85496306, g: 0.69155157, b: 0.25578758, a: 1}
+    - _Color: {r: 0.8470589, g: 0.6862745, b: 0.25490198, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Fade: {r: 0.96, g: 0.07, b: 0.25, a: 0.41}
   m_BuildTextureStacks: []
