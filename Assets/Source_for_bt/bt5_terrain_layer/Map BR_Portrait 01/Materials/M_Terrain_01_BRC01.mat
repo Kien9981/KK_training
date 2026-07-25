@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Terrain_01_BRC01
-  m_Shader: {fileID: 4800000, guid: 81044172d054b034da77ad506abebcca, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0126a04a0c8fc1e469365efe347fc7db, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -120,7 +120,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
-    - _Tiling: {r: 10, g: 10, b: 0, a: 0}
+    - _Tiling: {r: 40, g: 40, b: 0, a: 0}
     - _Tiling1: {r: 15, g: 15, b: 0, a: 0}
     - _Tiling2: {r: 25, g: 25, b: 0, a: 0}
     - _Tiling3: {r: 35, g: 35, b: 0, a: 0}
