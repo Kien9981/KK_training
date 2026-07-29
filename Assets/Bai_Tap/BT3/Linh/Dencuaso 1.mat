@@ -7,17 +7,17 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Terrain
-  m_Shader: {fileID: 4800000, guid: 74f0ecea88b1acb4ab3f462e5bb79f21, type: 3}
+  m_Name: Dencuaso 1
+  m_Shader: {fileID: 4800000, guid: fdd70ed732a7bbb4b858c592195623dc, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _TOGGLE1_ON
-  - _TOGGLE2_ON
-  m_InvalidKeywords: []
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _FADEX_ON
+  - _FADEY_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 1
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -25,10 +25,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Base:
-        m_Texture: {fileID: 2800000, guid: b166aed87185b1c45b17b1faa163d63c, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -53,10 +49,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Mask:
-        m_Texture: {fileID: 2800000, guid: fbd9fd7be040d2e42b17fbb42c9b95f1, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -69,28 +61,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Tex1:
-        m_Texture: {fileID: 2800000, guid: b166aed87185b1c45b17b1faa163d63c, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Tex2:
-        m_Texture: {fileID: 2800000, guid: e05ad77c2db38b743a5c7553b427c0a3, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Tex3:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Tex4:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DstBlend: 0
+    - _DstBlend: 10
+    - _FadeX: 1
+    - _FadeY: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -98,32 +76,14 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Rotate: 90
-    - _Rotate1: 0
-    - _Rotate2: 0
-    - _Rotate3: 0
-    - _Rotate4: 0
+    - _Power: 1.3
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Tiling: 50
-    - _Tiling1: 50
-    - _Tiling2: 50
-    - _Tiling3: 50
-    - _Tiling4: 50
-    - _Toggle1: 1
-    - _Toggle2: 1
-    - _Toggle3: 0
-    - _Toggle4: 0
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.9433962, g: 0.8966926, b: 0.78764683, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
-    - _Tiling: {r: 6.15, g: 6.15, b: 0.23, a: 0}
-    - _Tiling1: {r: 6.15, g: 5.2, b: 0, a: -0.12}
-    - _Tiling2: {r: 5, g: 5, b: 0, a: 0}
-    - _Tiling3: {r: 50, g: 50, b: 0, a: 0}
-    - _Tiling4: {r: 50, g: 50, b: 0, a: 0}
+    - _Fade: {r: 0, g: 1, b: 0, a: 1}
   m_BuildTextureStacks: []
