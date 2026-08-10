@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
-        m_Texture: {fileID: 2800000, guid: 72e703a43d3cf634a95d79a5c9d5f120, type: 3}
+        m_Texture: {fileID: 2800000, guid: 144b49fcb16adba4cb5ef2ef55399eb8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
@@ -100,11 +100,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Rotate: 271
-    - _Rotate1: 276
-    - _Rotate2: 246
-    - _Rotate3: 268
-    - _Rotate4: 322
+    - _Rotate: 252
+    - _Rotate1: 360
+    - _Rotate2: 341
+    - _Rotate3: 273
+    - _Rotate4: 360
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -120,7 +120,7 @@ Material:
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
     - _Tiling: {r: 20, g: 20, b: 0, a: 0}
     - _Tiling1: {r: 20, g: 20, b: 0, a: 0}
-    - _Tiling2: {r: 15, g: 15, b: 0, a: 0}
+    - _Tiling2: {r: 17, g: 17, b: 0, a: 0}
     - _Tiling3: {r: 30, g: 30, b: 0, a: 0}
     - _Tiling4: {r: 50, g: 50, b: 0, a: 0}
   m_BuildTextureStacks: []
