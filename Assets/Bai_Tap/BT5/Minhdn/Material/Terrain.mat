@@ -13,7 +13,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _TOGGLE1_ON
-  - _TOGGLE2_ON
   - _TOGGLE3_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -27,7 +26,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Base:
-        m_Texture: {fileID: 2800000, guid: fbd27b94922cf8843a8a63cf4556477f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3269fc23030cdab4c988e6ad7e8428a9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -55,7 +54,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
-        m_Texture: {fileID: 2800000, guid: 16ab890c2b1ff144ca3fc64e1c7b5b6a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2be2ccbea99c8ec4ca5c1f32a9ec4cae, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -71,7 +70,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex1:
-        m_Texture: {fileID: 2800000, guid: b703bcf0c3cf0e147974d07cfd8ed283, type: 3}
+        m_Texture: {fileID: 2800000, guid: ab0f649a5687727428a0deeafd4bfac2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex2:
@@ -79,7 +78,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
-        m_Texture: {fileID: 2800000, guid: 33c44fd0ff302f8408f77534c828ce5a, type: 3}
+        m_Texture: {fileID: 2800000, guid: ab5005505996cab40b06a57ca739b036, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
@@ -108,7 +107,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Toggle1: 1
-    - _Toggle2: 1
+    - _Toggle2: 0
     - _Toggle3: 1
     - _Toggle4: 0
     - _UVSec: 0
@@ -117,9 +116,9 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
-    - _Tiling: {r: 9.74, g: -16.16, b: 1, a: 1}
-    - _Tiling1: {r: 17.7, g: 22.9, b: 0, a: 0}
+    - _Tiling: {r: 19.15, g: 41.97, b: 1, a: 1}
+    - _Tiling1: {r: 50, g: 50, b: 0, a: 0}
     - _Tiling2: {r: 50, g: 50, b: 0, a: 0}
-    - _Tiling3: {r: 7.86, g: -16.28, b: 0, a: 0}
+    - _Tiling3: {r: 6.7, g: -26.21, b: 0, a: 0}
     - _Tiling4: {r: 50, g: 50, b: 0, a: 0}
   m_BuildTextureStacks: []
