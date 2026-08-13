@@ -123,7 +123,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
     - _Tiling: {r: 60, g: 60, b: 0, a: 0}
-    - _Tiling1: {r: 6, g: 6, b: 0, a: 0}
+    - _Tiling1: {r: 12, g: 12, b: 0, a: 0}
     - _Tiling2: {r: 18, g: 18, b: 0, a: 0}
     - _Tiling3: {r: 35, g: 35, b: 0, a: 0}
     - _Tiling4: {r: 50, g: 50, b: 0, a: 0}
