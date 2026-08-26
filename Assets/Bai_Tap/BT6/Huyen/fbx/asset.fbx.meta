@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4d0cf0adfbcf62d4897815a30eb2c839
+guid: efdd2bfdb8a4a5b4b95ca5efaf941ab4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,15 +7,10 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: T_block
+      name: T_Colorpalette
     second: {fileID: 2100000, guid: 2466c84b98aa40948985c02e140f3eb2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: T_terrain
-    second: {fileID: 2100000, guid: f58965d950244fe4e87927fb05d78a2e, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
