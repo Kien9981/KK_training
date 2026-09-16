@@ -1,0 +1,17 @@
+Title: Ancient Greek Pottery House
+URL: http://sketchfab.com/3d-models/ancient-greek-pottery-house-6e1a4c43a4914b3facbdc24713be71e7
+Author: https://sketchfab.com/Ioana_G
+
+Vertices: 17152
+Polygons: 27545
+Animations: 0
+
+Download Date: 17/09/2026
+Download Format: GLTF
+Download Path: C:\Users\CPT\Desktop\New folder (2)\Downloads\IoanaG\01- Ancient.Greek.Pottery.House\
+Download File: 6e1a4c43a4914b3facbdc24713be71e7_Textured.gltf
+
+Textures: 3
+#1: 2a733aec676940b385836a91d48b9fcd_RGB_Greek_Texture_01.png
+#2: 36b7ad2afd53462bb2df9af15dc47456_RGB_Environment.png
+#3: 6f724ef5b7e640b88a44fd7082d86514_R_Environment_transparent.png

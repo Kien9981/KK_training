@@ -1,0 +1,18 @@
+Title: DAE villages house of a Greek painter
+URL: http://sketchfab.com/3d-models/dae-villages-house-of-a-greek-painter-09a203f9cc404da0a83aa8ec5643fd7b
+Author: https://sketchfab.com/jorandp
+
+Vertices: 38478
+Polygons: 63951
+Animations: 0
+
+Download Date: 16/09/2026
+Download Format: GLTF
+Download Path: C:\Users\CPT\Desktop\New folder (2)\Downloads\jorandp\01- DAE.villages.house.of.a.Greek.painter\
+Download File: 09a203f9cc404da0a83aa8ec5643fd7b_Textured.gltf
+
+Textures: 4
+#1: 7deb72572de94487983e5f0e8d4b57d4_RGB_nature_texture.png
+#2: 7ebbec37b280459c9486f2da5dd5c174_RGB_building_texture.png
+#3: c21c372705c9400480bd5de9bf50d38c_R_transparent_texture_AO.png
+#4: d57acc9262be44dfa2ffad17e5dc89ce_RGB_transparent_texture.png
