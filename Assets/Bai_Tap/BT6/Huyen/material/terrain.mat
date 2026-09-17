@@ -14,6 +14,7 @@ Material:
   m_ValidKeywords:
   - _TOGGLE1_ON
   - _TOGGLE2_ON
+  - _TOGGLE3_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -54,7 +55,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask:
-        m_Texture: {fileID: 2800000, guid: b5c085cabb4b9dd45a42270d54c13723, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8d5d9486871cdf048ae32d534b651f48, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -70,7 +71,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex1:
-        m_Texture: {fileID: 2800000, guid: 4bd95b8aaeb90d748a4d3701f52cccf5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 53284e784aa78c642a82869108786e9d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex2:
@@ -78,7 +79,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: ec60ed46b74c60f44aaf48b6f17cd936, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
@@ -108,7 +109,7 @@ Material:
     - _SrcBlend: 1
     - _Toggle1: 1
     - _Toggle2: 1
-    - _Toggle3: 0
+    - _Toggle3: 1
     - _Toggle4: 0
     - _UVSec: 0
     - _ZWrite: 1
