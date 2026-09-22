@@ -83,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
-        m_Texture: {fileID: 2800000, guid: 12ea540fc2bc9cd4e8dc306facfd4c19, type: 3}
+        m_Texture: {fileID: 2800000, guid: 847296df66d79ca4a8b26a3e21b4e52c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -100,7 +100,7 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Rotate: 0
-    - _Rotate1: 0
+    - _Rotate1: 134
     - _Rotate2: 0
     - _Rotate3: 0
     - _Rotate4: 91
@@ -118,7 +118,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
     - _Tiling: {r: 10, g: 10, b: 1, a: 1}
-    - _Tiling1: {r: 50, g: 50, b: 0, a: 0}
+    - _Tiling1: {r: 50, g: 38.36, b: 190.39, a: 3.68}
     - _Tiling2: {r: 10, g: 10, b: 0, a: 0}
     - _Tiling3: {r: 13.1, g: 52.5, b: 0, a: 0}
     - _Tiling4: {r: 1, g: 1, b: 0, a: 0}
