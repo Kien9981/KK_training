@@ -79,7 +79,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
-        m_Texture: {fileID: 2800000, guid: 1cbcd38f31ea79949a6609c1dfd5dc26, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9a45b567fe50b874293f6887c4421464, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
@@ -120,6 +120,6 @@ Material:
     - _Tiling: {r: 30, g: 30, b: 0, a: 0}
     - _Tiling1: {r: 20, g: 20, b: 0, a: 0}
     - _Tiling2: {r: 30, g: 28.82, b: 30, a: 0}
-    - _Tiling3: {r: 14.3, g: 20, b: 0, a: 0}
+    - _Tiling3: {r: 10, g: 15, b: 10, a: 0}
     - _Tiling4: {r: 70, g: 60, b: 0, a: 0}
   m_BuildTextureStacks: []
