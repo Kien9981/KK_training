@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Terrain 1
+  m_Name: Terrain 2
   m_Shader: {fileID: 4800000, guid: 0126a04a0c8fc1e469365efe347fc7db, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -75,11 +75,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex2:
-        m_Texture: {fileID: 2800000, guid: 55492596c38e47a4ea7564207aabd228, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9679a68cc18ad3d46a15e0e033c94cc3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
-        m_Texture: {fileID: 2800000, guid: c21ae8914486c6149878a200ebec1f7a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 128f2da897748544b9963b4a43a4933c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Tex4:
@@ -102,7 +102,7 @@ Material:
     - _Rotate: 0
     - _Rotate1: 134
     - _Rotate2: 48
-    - _Rotate3: 0
+    - _Rotate3: 61
     - _Rotate4: 91
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -117,9 +117,9 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MaskMultiply: {r: 1, g: 1, b: 1, a: 1}
-    - _Tiling: {r: 20, g: 20, b: 1, a: 1}
+    - _Tiling: {r: 50, g: 50, b: 1, a: 1}
     - _Tiling1: {r: 50, g: 38.36, b: 190.39, a: 3.68}
     - _Tiling2: {r: 7, g: 6, b: 0, a: 0}
-    - _Tiling3: {r: 13.1, g: 52.5, b: 0, a: 0}
+    - _Tiling3: {r: -17.28, g: 52.5, b: 0, a: 0}
     - _Tiling4: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
